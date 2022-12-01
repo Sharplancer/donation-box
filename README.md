@@ -2,6 +2,8 @@
 
 Using Web3 to connect wallet and donate Eth to a specific smart contract.
 
+https://donation-box-lac.vercel.app/
+
 ## Features
 - Connect Metamask Wallet
 - Get Balance from Wallet Account
