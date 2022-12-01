@@ -1,3 +1,20 @@
+# Donation Box
+
+Using Web3 to connect wallet and donate Eth to a specific smart contract.
+
+## Features
+- Connect Metamask Wallet
+- Get Balance from Wallet Account
+- Get Total Donation Amount from Smart contract
+- Donate some Eth to the Smart contract
+
+## Technologies
+- React
+- TypeScript
+- web3.js
+- ethers.js
+- tailwindcss
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
